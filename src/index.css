@@ -196,7 +196,3 @@ h1 {
 a {
     color: inherit;
 }
-
-a.active {
-    color: hsl(var(--accent));
-}

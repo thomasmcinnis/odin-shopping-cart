@@ -11,7 +11,7 @@ My goals for this project is to learn:
 
 ### Requirements
 
-- [ ] Routing between home, shop, and cart
+- [x] Routing between home, shop, and cart
 - [ ] Fetching store items from an API
 - [ ] Display store items in a store page
 - [ ] Add/remove items from store page
