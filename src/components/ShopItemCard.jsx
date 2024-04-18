@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-export default function ShopCartItem({ item }) {
+export default function ShopItemCard({ item }) {
   const dollarPrice = new Intl.NumberFormat('en-US', {
     style: 'currency',
     currency: 'USD',
